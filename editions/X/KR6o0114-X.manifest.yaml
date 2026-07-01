@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6o0114/X/v1
+canonical_location: https://kanripo.org/bkk/KR6o0114/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起信論纂註
+  identifiers:
+    krp: KR6o0114
+    cbeta: X45n0762
+    cbeta_old_id: X45n0762
+    authorityid: CA0002552
+    json_key: X0762
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X45/X45n0762.xml
+    old_id: X45n0762
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0114_000-X.yaml, hash: 'sha256:6a28bb029650223e5d33d652410c5e4fd4ce120c4bbe7b0ccde8d8b9bd549b65'}
+  - {seq: 1, filename: KR6o0114_001-X.yaml, hash: 'sha256:79584cd9933ad57f9e05c6a5e003ca99fed6e49c7bd7ea0907fb7868f5bb5ee7'}
+  - {seq: 2, filename: KR6o0114_002-X.yaml, hash: 'sha256:d89da613ff00e1daca850e80963a21f2d1566ad2e68634b99eb212b19b07aa16'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0114_000-X.markers.yaml, hash: 'sha256:7c5d687addcb140ff97c66832dfff137092d864d06a609cbc268e88d6e5b3e75'}
+  - {seq: 1, role: markers, filename: assets/KR6o0114_001-X.markers.yaml, hash: 'sha256:b14f8084a16796d0fac78f99c172f91eeb81e6f9f5e18d4ebfcda02a43d881e9'}
+  - {seq: 2, role: markers, filename: assets/KR6o0114_002-X.markers.yaml, hash: 'sha256:3a927b8f9921e07b09dbd939f5d042e323d0992f939bce7e1899cad22534e51f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6o0114_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大乘起信論纂註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0114_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18341
+  label: 大乘起信論纂註卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0114_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 21558
+  label: 大乘起信論纂註卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0114_X_002-mulu-1
+    span:
+    - body
+    - 21263
+    - 21263
+  label: No. 762-A
+  type: mulu
+  level: 1
+hash: sha256:b76a08c1b3b8b51196acc53399f7a0fd1309d5ab79df9d5389d414c36a8b795d

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6o0114/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 大乘起信論纂註, id: KR6o0114_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起信論纂註
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X45/X45n0762.xml
+    old_id: X45n0762
+hash: sha256:6a28bb029650223e5d33d652410c5e4fd4ce120c4bbe7b0ccde8d8b9bd549b65
